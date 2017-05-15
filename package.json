@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rasha08/movi-finder.git"
+    "url": "git+https://github.com/rasha08/simple-movie.git"
   },
   "author": "rasha08",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rasha08/movi-finder/issues"
+    "url": "https://github.com/rasha08/simple-movie/issues"
   },
-  "homepage": "https://github.com/rasha08/movi-finder#readme",
+  "homepage": "https://github.com/rasha08/simple-movie#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-preset-env": "^1.4.0",
